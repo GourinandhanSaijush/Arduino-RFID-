@@ -1,4 +1,4 @@
-# Arduino-RFID-
+# Arduino-RFID-LOCK
 RFID door lock using Arduino
 # RFID Door Lock using Arduino
 
